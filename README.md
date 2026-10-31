@@ -1,6 +1,6 @@
 # Kajens Cykeluthyrning 🚲
 
-Detta är en konsolapplikation skriven i C# för kursen. Programmet är skapat för att hjälpa personalen på Kajens Cykeluthyrning i Göteborg att hålla ordning på fordon, kunder och uthyrningar.
+Programmet är skapat för att hjälpa personalen på Kajens Cykeluthyrning i Göteborg att hålla ordning på fordon, kunder och uthyrningar.
 
 ## Funktioner i programmet
 
